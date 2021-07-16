@@ -2,8 +2,6 @@
 
 #### If this helped, a ⭐ would be appreciated!
 
-<br><br>
-
 ## List of Topics:
 
 * <a href="https://github.com/nisheet-n/data-structures/tree/main/01)%20Functions">01: Functions</a>
@@ -35,4 +33,4 @@
 * <a href="https://github.com/nisheet-n/data-structures/tree/main/14)%20Binary%20Search%20Tree">14: Binary Search Tree</a>
 
 
-#### Contribute To Add More Stuff
+#### Contribute To Add More Stuff and follow for more...
